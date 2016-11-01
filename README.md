@@ -1,2 +1,4 @@
-# react-to-do
-First React Application
+# React To-Do List
+
+### Work in Progress
+Working on my first React application
