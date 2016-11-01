@@ -1,0 +1,23 @@
+{
+  "name": "react-to-do",
+  "version": "1.0.0",
+  "description": "First shot at a React To-Do App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irwintsay/react-to-do.git"
+  },
+  "author": "Irwin Tsay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irwintsay/react-to-do/issues"
+  },
+  "homepage": "https://github.com/irwintsay/react-to-do#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
